@@ -1,4 +1,4 @@
-# README - Ujian Akhir Semester Ganjil 2023
+# README - Ujian Akhir Semester Ganjil 2024
 
 ## Program Studi Sarjana Teknologi Informasi
 
